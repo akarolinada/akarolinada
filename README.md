@@ -1,4 +1,4 @@
-### Oi, eu sou a Karol Melo! 👋
+### Hi, I'm Karol Melo! 👋
 
 - 🔭 I’m currently studing System Analysis and Development
 - 🌱 I’m learning C, Software Development Methods 
